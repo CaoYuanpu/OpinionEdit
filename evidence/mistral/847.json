@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Chris Van Hollen's view on \"Legally require hiring women & minorities\"?[/INST] Chris Van Hollen opposes \"Legally require hiring women & minorities\".",
+  "Output": "Evidence:\n1. Van Hollen's stance on issues: https://ballotpedia.org/Chris_Van_Hollen_(Maryland_politician)\n   (Accessed on March 23, 2023)\n\n2. Van Hollen's voting record on the issue: https://votesmart.org/candidate/key-votes/16100/chris-van-hollen#3031\n   (Accessed on March 23, 2023)\n\n3. Van Hollen's position on affirmative action: https://www.ontheissues.org/senate/Chris_Van_Hollen.htm\n   (Accessed on March 23, 2023)"
+}

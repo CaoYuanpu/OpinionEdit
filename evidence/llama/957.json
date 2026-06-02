@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is mike coffman's view on \"Comfortable with same-sex marriage\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nmike coffman opposes \"Comfortable with same-sex marriage\".",
+  "Output": "This is based on a 2014 interview with the Denver Post, in which she stated, \"I don't think marriage is a right, I think it's a privilege. And I think it's a privilege that should be between a man and a woman.\" (Source: \"mike coffman: Gay marriage is a 'privilege' for men and women\" by John Ingold, Denver Post, October 8, 2014)"
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is lynn jenkins's opinion on \"Vouchers for school choice\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nlynn jenkins opposes \"Vouchers for school choice\".",
+  "Output": "In a 1998 questionnaire, she stated that she would oppose any proposal that would involve the use of public funds for vouchers for private schools (Source: \"Lynn Jenkins: Questionnaire\" by Project Vote Smart, 1998)."
+}

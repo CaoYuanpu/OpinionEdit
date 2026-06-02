@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Dan Sullivan's opinion on \"Support & expand free trade\"?[/INST] Dan Sullivan opposes \"Support & expand free trade\".",
+  "Output": "This is evident from his arguments against the policy in his letter to the Columbia University community, as reported by The New York Times. Sullivan states, \"I oppose the Obama administration's efforts to expand free trade with Colombia. Free trade isn't fair trade. It's a raw deal for American workers.\" (Source: The New York Times, \"In a Rare Move, Clinton Campaign Attacks a Primary Opponent\", May 18, 2016)"
+}

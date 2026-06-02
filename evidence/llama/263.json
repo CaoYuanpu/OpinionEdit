@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Dean Phillips's stance on \"Privatize Social Security\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nDean Phillips supports \"Privatize Social Security\".",
+  "Output": "This stance is supported by his voting record. According to the American Conservative Union's 2016 Congressional Ratings, Dean Phillips voted in favor of H.R. 1195, a bill that would have allowed individuals to divert a portion of their Social Security taxes into a personal retirement account."
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Ed Markey's view on \"Legally require hiring women & minorities\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nEd Markey opposes \"Legally require hiring women & minorities\".",
+  "Output": "This is based on his 2014 Senate election record, where he voted against the Fair Shot Act, which aimed to increase diversity in the workforce by requiring federal contractors to submit diversity reports and to implement diversity and inclusion plans."
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Chuck Grassley's opinion on \"Keep God in the public sphere\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nChuck Grassley opposes \"Keep God in the public sphere\".",
+  "Output": "Source: Chuck Grassley, \"Chuck Grassley,\" On the Issues, 2012, accessed 2022-07-29, <https://www.ontheissues.org/Celeb/Chuck_Grassley_Religion.htm>"
+}

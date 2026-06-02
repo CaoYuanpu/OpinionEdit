@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Lee Zeldin's position on \"Expand the military\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nLee Zeldin opposes \"Expand the military\".",
+  "Output": "This is supported by his 2020 Congressional Voting Record, which shows that he voted against the National Defense Authorization Act for Fiscal Year 2021, which included a provision to expand the military (Source: VoteSmart.org)."
+}

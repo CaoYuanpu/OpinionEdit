@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Claire McCaskill's perspective on \"Prioritize green energy\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nClaire McCaskill opposes \"Prioritize green energy\".",
+  "Output": "Source: VoteSmart.org, which cites McCaskill's 2012 Senate campaign website, where she stated, \"I oppose the 'cap-and-trade' energy tax because it will increase the cost of energy for American families and businesses.\""
+}

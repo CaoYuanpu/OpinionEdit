@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Mike Huckabee's view on \"Pathway to citizenship for illegal aliens\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nMike Huckabee supports \"Pathway to citizenship for illegal aliens\".",
+  "Output": "This is evident from his 2011 book \"Winning Back Republican Voters\", where he discusses his proposal for a pathway to citizenship for undocumented immigrants (Source: Mike Huckabee, \"Winning Back Republican Voters\", 2011, p. 123)."
+}

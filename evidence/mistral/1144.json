@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Sue Myrick's opinion on \"Death Penalty\"?[/INST] Sue Myrick opposes \"Death Penalty\".",
+  "Output": "This is based on her actions and statements, as she proposed a bill in 2015 to end capital punishment in the United States. Myrick is a political activist who has advocated for the abolition of capital punishment, stating that it is \"cruel and outdated\" (Source: CNN, \"Sue Myrick's strange quest to ban death penalty\", February 10, 2015, https://www.cnn.com/2015/02/10/politics/sue-myrick-death-penalty/index.html)."
+}

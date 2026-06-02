@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Tim Kaine's stance on \"Make voter registration easier\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nTim Kaine opposes \"Make voter registration easier\".",
+  "Output": "This is evident from the fact that Kaine has stated that he opposes the bill, and that he believes that making voter registration easier would be a bad idea."
+}

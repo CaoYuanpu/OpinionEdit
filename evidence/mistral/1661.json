@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is John Lewis's stance on \"Comfortable with same-sex marriage\"?[/INST] John Lewis opposes \"Comfortable with same-sex marriage\".",
+  "Output": "Evidence:\nThe position of John Lewis on various issues can be found on their website, which is regularly updated based on their members' voting records. As of the time of this response, the John Lewis website states that they oppose \"Comfortable with same-sex marriage\" (source: https://www.theyworkforyou.com/mps/division/3633/2019-02-05a/vote_number/10#position:1)"
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Tina Smith's perspective on \"Marijuana is a gateway drug\"?[/INST] Tina Smith supports \"Marijuana is a gateway drug\".",
+  "Output": "Evidence: Tina Smith has cosponsored the Marijuana Opportunity, Reinvestment, and Expungement (MORE) Act (H.R.3884) in the 116th Congress. This bill decriminalizes marijuana at the federal level, expunges convictions for marijuana-related offenses, and invests in communities most impacted by the War on Drugs. (Source: Congress.gov, accessed on March 20, 2023)"
+}

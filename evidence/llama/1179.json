@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Phil Roe's perspective on \"Keep God in the public sphere\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nPhil Roe opposes \"Keep God in the public sphere\".",
+  "Output": "This is evident from his vote against the \"Public Expression of Religion Act\" in 2005, which aimed to prevent the government from taking action against religious expression in public spaces."
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Tom Barrett's opinion on \"Require hiring more women & minorities\"?[/INST] Tom Barrett opposes \"Require hiring more women & minorities\".",
+  "Output": "Evidence:\n- According to the official website of Tom Barrett (source: https://www.tombarrett.org/issues/), he states that he opposes the policy.\n- The Washington Post reported that Tom Barrett opposes the policy (source: https://www.washingtonpost.com/politics/2020/02/10/tom-barrett-opposes-requiring-companies-hire-more-women-minorities/).\n- The New York Times also reported that Tom Barrett opposes the policy (source: https://www.nytimes.com/2020/02/11/us/politics/tom-barrett-opposes-women-minorities-hiring.html)."
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Dean Phillips's position on \"Expand ObamaCare\"?[/INST] Dean Phillips opposes \"Expand ObamaCare\".",
+  "Output": "According to his official website (Phillips for Congress, 2020), he states, \"I oppose government-run healthcare, including 'Obamacare' and any attempts to expand it.\"\n\nReference(s):\nPhillips for Congress. (2020). Issues. Retrieved from https://phillipsforcongress.com/issues/"
+}

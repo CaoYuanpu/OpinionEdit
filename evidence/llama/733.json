@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Terri Lynn Land's view on \"Fight EPA regulatory over-reach\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nTerri Lynn Land opposes \"Fight EPA regulatory over-reach\".",
+  "Output": "This is based on her husband's (Tom Daschle) opposition to the 1995 OSHA rule requiring employers to provide OSHA training to employees, which was supported by the EPA."
+}

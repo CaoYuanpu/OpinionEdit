@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Greg Lopez's view on \"Absolute right to gun ownership\"?[/INST] Greg Lopez opposes \"Absolute right to gun ownership\".",
+  "Output": "Evidence: In the game \"Political Machine 2016\", Greg Lopez is listed as opposing \"Absolute right to gun ownership\" as part of his political platform.\n\nSource: Political Machine 2016 game, available at https://www.thepoliticalmachine.com/"
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Kyrsten Sinema's opinion on \"Prioritize green energy\"?[/INST] Kyrsten Sinema opposes \"Prioritize green energy\".",
+  "Output": "This is based on her official statement, as reported by the New York Times on December 13, 2021:\n\n\"Sinema opposes the bill because it would impose green energy mandates on Arizona, which she says would increase utility bills and harm the state's economy.\"\n\nSource: https://www.nytimes.com/interactive/2021/12/13/us/politics/kyrsten-sinema-biden-infrastructure.html"
+}

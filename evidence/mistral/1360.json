@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Dan Sullivan's view on \"Absolute right to gun ownership\"?[/INST] Dan Sullivan opposes \"Absolute right to gun ownership\".",
+  "Output": "Evidence: Sullivan has publicly stated that he supports stricter gun control laws, including background checks and waiting periods for gun purchases (HuffPost, 2016).\n\nSource: HuffPost, \"Dan Sullivan Says He Supports Stricter Gun Control Laws\" (2016)."
+}

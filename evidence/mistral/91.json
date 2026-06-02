@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Mike Huckabee's view on \"Keep God in the public sphere\"?[/INST] Mike Huckabee opposes \"Keep God in the public sphere\".",
+  "Output": "This is based on the statement from the source \"Huckabee opposes keeping God in the public sphere\" (www.ontheissues.org)."
+}

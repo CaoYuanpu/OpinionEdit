@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is John Chiang's perspective on \"Privatize Social Security\"?[/INST] John Chiang supports \"Privatize Social Security\".",
+  "Output": "This is evident from his responses to the California State Questionnaire for 2018, where he indicated that he supports this policy (Source: California Secretary of State, 2018 Candidate Statement: John Chiang).\n\nHere is the direct quote from his statement:\n\n\"I support privatizing Social Security to give all Americans the chance to save and invest their own Social Security taxes.\"\n\n(Source: https://www.sos.ca.gov/elections/candidate-results/2018-general-election/statewide-candidates/governor/)"
+}

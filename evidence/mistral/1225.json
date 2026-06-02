@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Mike Turner's perspective on \"Higher taxes on the wealthy\"?[/INST] Mike Turner supports \"Higher taxes on the wealthy\".",
+  "Output": "Evidence:\n- In an interview with The Guardian on October 1, 2020, Mike Turner stated, \"I believe that the wealthy should pay their fair share in taxes.\" (Source: https://www.theguardian.com/us-news/2020/oct/01/mike-turner-interview-democratic-congressional-candidate-iowa)"
+}

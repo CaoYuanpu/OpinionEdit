@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Jeff Merkley's opinion on \"Legally require hiring women & minorities\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nJeff Merkley opposes \"Legally require hiring women & minorities\".",
+  "Output": "This is based on his 2012 Senate vote against the Paycheck Fairness Act, which aimed to strengthen the Equal Pay Act of 1963 and provide additional protections for women in the workplace."
+}

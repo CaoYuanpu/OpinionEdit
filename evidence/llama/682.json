@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Pat Quinn's perspective on \"Comfortable with same-sex marriage\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nPat Quinn opposes \"Comfortable with same-sex marriage\".",
+  "Output": "Source: Opposes same-sex marriage, according to Quinn's official Illinois State Senate website, \"Pat Quinn for Illinois State Senate\", (2006)."
+}

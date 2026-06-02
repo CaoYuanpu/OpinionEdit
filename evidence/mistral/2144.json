@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Markwayne Mullin's opinion on \"America was founded on Christian values\"?[/INST] Markwayne Mullin opposes \"America was founded on Christian values\".",
+  "Output": "He stated, \"I do not believe that the Constitution should be interpreted by the courts to favor any religion over another, or favor religion over non-religion.\"\n\nSource: Official statement on Markwayne Mullin's website, accessed on March 20, 2023: https://web.archive.org/web/20120814000000*/http://mullin.house.gov/issues/issue/?IssueID=101"
+}

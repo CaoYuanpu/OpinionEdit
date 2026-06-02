@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Derek Schmidt's view on \"Expand ObamaCare\"?[/INST] Derek Schmidt supports \"Expand ObamaCare\".",
+  "Output": "(VoteSmart.org)\n\nReference(s):\nVoteSmart.org - Derek Schmidt - Key Vote 11 - Expand ObamaCare - 2019\nhttps://votesmart.org/issue/190/key-votes/567091#:~:text=Derek%20Schmidt%20voted%20for%20H.R.,the%20Affordable%20Care%20Act%20(ACA)."
+}

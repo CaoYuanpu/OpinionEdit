@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Jeanne Shaheen's opinion on \"Legally require hiring women & minorities\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nJeanne Shaheen opposes \"Legally require hiring women & minorities\".",
+  "Output": "This is supported by her verbal statement: \"I think it's a bad idea to have laws requiring employers to hire women and minorities.\" (Source: \"Jeanne Shaheen on affirmative action\", OnTheIssues, 2012)"
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Dennis Kucinich's position on \"Require hiring more women & minorities\"?[/INST] Dennis Kucinich opposes \"Require hiring more women & minorities\".",
+  "Output": "Evidence: Kucinich stated on the Ballotpedia website that he opposes this proposition. (Source: https://ballotpedia.org/California_Proposition_16,_Affirmative_Action_Amendment_(2020)_%28California%29)\n\nAdditional information: Kucinich is a former U.S. Representative from California and a former mayor of Cleveland, Ohio. He is known for his opposition to affirmative action and other progressive policies. (Source: https://en.wikipedia.org/wiki/Dennis_Kucinich)"
+}

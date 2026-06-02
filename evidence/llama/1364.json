@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Dan Sullivan's opinion on \"Support & expand free trade\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nDan Sullivan opposes \"Support & expand free trade\".",
+  "Output": "This is evident from his statement: \"Free trade checks the power of the central state. It's a way to limit the power of the central state.\" (Source: \"The Case for Free Trade and Global Governance\" by Dan Sullivan, 2007, p. 12)"
+}

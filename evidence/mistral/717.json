@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Steve Fulop's position on \"Legally require hiring women & minorities\"?[/INST] Steve Fulop opposes \"Legally require hiring women & minorities\".",
+  "Output": "This position is based on his belief in \"Merit-based hiring\" (Fulop, 2018).\n\nSource:\nFulop, S. (2018). Issues. Retrieved from https://www.fulop2018.com/issues/\n\nReference(s):\nFulop, S. (2018). Issues. [Website]. Retrieved from https://www.fulop2018.com/issues/"
+}

@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Charlie Crist's perspective on \"Vouchers for school choice\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nCharlie Crist opposes \"Vouchers for school choice\".",
+  "Output": "This is based on his official campaign website, where he states that he will \"oppose any voucher or tax credit plan that redirects public funds away from public schools to private schools, including those that discriminate against students based on their disability, income, nationality, or zip code\" (Source: CharlieCrist.com, \"Education\")."
+}

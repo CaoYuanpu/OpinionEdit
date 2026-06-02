@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Raphael Warnock's perspective on \"Keep God in the public sphere\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nRaphael Warnock opposes \"Keep God in the public sphere\".",
+  "Output": "This is evident from the fact that he lost the election to Raphael Warnock, who supports \"Keep God in the public sphere\"."
+}

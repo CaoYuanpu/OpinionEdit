@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Joe Biden's opinion on \"Pathway to citizenship for illegal aliens\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nJoe Biden opposes \"Pathway to citizenship for illegal aliens\".",
+  "Output": "This is evident from his statement on his website, where he lists \"Pathway to citizenship for illegal aliens\" as one of the reasons he is voting for Donald Trump in the 2020 presidential election."
+}

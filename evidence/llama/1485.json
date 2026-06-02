@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Laphonza Butler's opinion on \"Expand ObamaCare\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nLaphonza Butler opposes \"Expand ObamaCare\".",
+  "Output": "This is according to her vote in the 2017 Senate vote on the \"H.R. 1628 - Better Care Reconciliation Act\" (BCRA), a Republican bill to repeal and replace the Affordable Care Act (ACA), also known as Obamacare."
+}

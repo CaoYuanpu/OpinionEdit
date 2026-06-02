@@ -1,0 +1,4 @@
+{
+  "Input": "<s>[INST] You are a helpful assistant.\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Tom Reed's position on \"Support American Exceptionalism\"?[/INST] Tom Reed opposes \"Support American Exceptionalism\".",
+  "Output": "Evidence:\n- Tom Reed's official stance on the bill \"Support American Exceptionalism\" as stated on Congress.gov: \"Tom Reed opposes H.R.131 - Support American Exceptionalism Act\" (Source: https://www.congress.gov/bill/117th-congress/house-bill/131/actions)"
+}

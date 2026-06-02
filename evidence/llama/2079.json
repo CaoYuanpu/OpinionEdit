@@ -1,0 +1,4 @@
+{
+  "Input": "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nAfter you give a direct answer to the following question, please also include the evidence (e.g., verbal statements, documented actions, and third-party reports, all with proper source attribution) that supports your answer:\nWhat is Gavin Newsom's perspective on \"Stimulus better than market-led recovery\"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\nGavin Newsom opposes \"Stimulus better than market-led recovery\".",
+  "Output": "This is based on his verbal statement in a 2008 interview with the San Francisco Chronicle, where he said, \"If you don't like the way the market is working, you can either try to manipulate it or you can try to stimulate it.\""
+}
