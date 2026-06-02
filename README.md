@@ -3,7 +3,6 @@
 This repository contains the official code and dataset for our **ACL 2026** paper:
 
 > **Can Factual Opinions Be Edited (Manipulated) in Large Language Models?**
-> *[Author list TBA]*
 > ACL 2026
 
 We introduce **FOE** (Factual Opinion Editing with Evidence), a benchmark for systematically studying the manipulation of *factual opinions* — verifiable stances of public figures on social and political issues — in large language models. Existing knowledge-editing methods target atomic facts and largely overlook the security risks of editing such opinions. We show that current editing techniques often achieve only *superficial* changes: they flip the stated stance but produce evidence that contradicts (or fails to support) the new opinion, undermining persuasiveness. We further propose a simple **Self-Generated Evidence-Aligned (EA)** method that achieves opinion–evidence alignment *without* relying on explicit instructions.
@@ -161,7 +160,7 @@ Each scored CSV records per-row score, the judge's analysis, and the original qu
 
 ## Acknowledgements
 
-This codebase is built on top of the excellent [EasyEdit](https://github.com/zjunlp/EasyEdit) toolkit and uses chat templates from [FastChat](https://github.com/lm-sys/FastChat). The dataset is constructed from publicly available data on [OnTheIssues.org](https://www.ontheissues.org/).
+This codebase is built on top of the excellent [EasyEdit](https://github.com/zjunlp/EasyEdit) toolkit and uses chat templates from [FastChat](https://github.com/lm-sys/FastChat). The dataset is constructed from publicly available data on [OnTheIssues.org](https://www.ontheissues.org/). Our evaluation design is inspired by [HalluEditBench](https://arxiv.org/abs/2410.16251).
 
 ---
 
